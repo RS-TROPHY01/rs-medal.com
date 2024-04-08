@@ -1,5 +1,5 @@
 <script setup lang="ts">
-const title = "RS AWARD | บทความ";
+const title = "RS MEDAL | บทความ";
 const description = "บทความ";
 const image = "/panel/hero_section.webp";
 useSeoMeta({
@@ -11,7 +11,7 @@ useSeoMeta({
   twitterDescription: description,
   ogImage: image,
   twitterImage: image,
-  keywords: "RS AWARD, บทความ",
+  keywords: "RS MEDAL, บทความ",
 });
 </script>
 <template>
