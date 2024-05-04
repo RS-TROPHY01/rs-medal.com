@@ -63,6 +63,7 @@ useSeoMeta({
         </ul>
       </div>
     </div>
+    <AllMedal />
     <AppOurCustomer />
   </div>
 </template>
